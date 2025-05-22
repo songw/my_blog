@@ -1,4 +1,4 @@
-site_name: My MkDocs Material Documentation
+site_name: 个人笔记
 site_url: https://sitename.example
 theme:
   name: material
@@ -47,10 +47,3 @@ markdown_extensions:
       alternate_style: true
   - admonition
   - pymdownx.details
-
-extra:
-  social:
-    - icon: simple/youtube
-      link: https://youtube.com/@james-willett
-
-copyright: Copyright &copy; 2024 James Willett
