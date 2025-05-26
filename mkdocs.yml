@@ -44,3 +44,8 @@ markdown_extensions:
       alternate_style: true
   - admonition
   - pymdownx.details
+
+extra:
+  analytics:
+    provider: google
+    property: G-H3CVJS4N87
