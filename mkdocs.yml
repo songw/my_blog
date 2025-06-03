@@ -44,6 +44,8 @@ markdown_extensions:
       alternate_style: true
   - admonition
   - pymdownx.details
+  - pymdownx.arithmatex:
+      generic: true
 
 extra:
   analytics:
