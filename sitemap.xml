@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://sitename.example/</loc>
+         <lastmod>2025-06-03</lastmod>
+    </url>
+    <url>
+         <loc>https://sitename.example/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%E4%BA%A4%E5%8F%89%E7%86%B5/</loc>
+         <lastmod>2025-06-03</lastmod>
+    </url>
+</urlset>
