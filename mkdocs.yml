@@ -57,6 +57,3 @@ extra:
   analytics:
     provider: google
     property: G-H3CVJS4N87
-
-plugins:
-  - glightbox
